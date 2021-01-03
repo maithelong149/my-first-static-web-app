@@ -42,8 +42,12 @@ Trong mục *App Name* chọn tên cho ứng dụng nếu bạn để trống th
 
 ## Tạo Git Repository trên máy Local
 Đầu tiên các bạn tải cho tôi phần mềm GIT để thuận tiện cho việc deploy ứng dụng web. Đường link để tải tôi sẽ để tại đây [ Click vào đây để download GIT về máy tính](https://git-scm.com/)
+Sau khi tải xong, các bạn click vào file các bạn muốn  deploy, chọn Git base here:
+![hình ảnh](./c1.png)
+Và sẽ chúng ta được giao diện sau:
+![hình ảnh](./c2.png)
 
-Nếu bạn chưa có, hãy đăng nhập vào tài khoản Heroku của bạn và làm theo lời nhắc để tạo kháo công khai SSH mới :
+Nếu bạn chưa có, hãy đăng nhập vào tài khoản Heroku của bạn và làm theo lời nhắc để tạo khóa công khai SSH mới :
 
 ![hình ảnh](./b1.png)
 
