@@ -8,7 +8,7 @@ Trong bài viết này tôi sẽ tạo ra một "tài liệu" hướng dẫn cá
 
 Đây là ứng dụng mà tôi sẽ xây dựng trong bài viết này.
 
-![Homepage](./homepage.png)
+![Homepage](./hompage.png)
 
 Sau khi xem xong "tài liệu" này thì bạn sẽ thực hiện được một số việc với Heroku.
 
