@@ -75,23 +75,20 @@ Có thể có nhiều cách để Deploy ứng dụng lên Heroku nhưng có hai
 
 Chúng ta bắt đầu với cách deploy khi kết nối với Github bạn sẽ chọn kho lưu trữ (repositories) chứa source code mà bạn đã push lên Github rồi kết nối chúng với nhau :
 
-![hình ảnh](./i6.png)
+![hình ảnh](./a6.png)
 
  Ở đây tôi đã kết nối thành công.
 
 Tiếp đến bạn cần chọn nhánh của Github để deploy sau đó chọn **Deploy Branch** để đưa ứng dụng lên Heroku.
 
-![hình ảnh](./i8.png)
+![hình ảnh](./a7.png)
 
 Sau khi push thành công bạn có thể xem. Click vào **View** sẽ đưa bạn đến trang ứng dụng web mà bạn đã triển khai thành công trên Heroku. 
 
 Chúng ta chuyển sang trang Github, sau khi đã triển khai thành công bạn có thể mở ngay tại đây. Chọn vào kho lưu trữ mà bạn đã kết nối với Heroku -> vào phần code sẽ có mục **Environments** ở dưới cùng phía bên phải màn hình.
 
-![hình ảnh](./i9.png)
-
 Click vào mục này bạn sẽ được đưa sang một trang mới chọn **View deployment** để mở ứng dụng bạn đã triểm khai thành công trên Heroku.
 
-![hình ảnh](./i10.png)
 
 
 
